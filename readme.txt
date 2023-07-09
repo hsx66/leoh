@@ -7,3 +7,4 @@ now test no-ff
 test ff
 test no-ff
 test ff again
+test ff again again
