@@ -8,4 +8,4 @@ test ff
 test no-ff
 test ff again
 test ff again again
-test no-ff again again
+no -ff again
